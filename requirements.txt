@@ -1,0 +1,4 @@
+gradio==5.50.0
+ai-edge-litert
+numpy
+Pillow
